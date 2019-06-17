@@ -1,6 +1,4 @@
-/**
- * Created by turashov on 14.08.2018.
- */
+
 
 const path = require('path');
 const webpack = require('webpack');
