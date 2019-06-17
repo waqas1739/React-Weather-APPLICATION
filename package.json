@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "description": "React's weather forecast application using OpenWeatherMap API",
-  "author": "Ivan Turashov",
+  "author": "Waqas Javed",
   "scripts": {
     "clean": "rm -rf static/",
     "preinstall": "rm -rf node_modules && npm cache clean --force",
