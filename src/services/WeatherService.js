@@ -1,6 +1,4 @@
-/**
- * Created by ivan on 24.06.18.
- */
+
 
 import axios from 'axios';
 import API from './API';
